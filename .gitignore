@@ -2,3 +2,4 @@ node_modules
 ref
 .env
 .DS_Store
+.vscode
